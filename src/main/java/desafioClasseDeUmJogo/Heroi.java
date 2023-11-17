@@ -1,3 +1,4 @@
+
 package desafioClasseDeUmJogo;
 import java.util.Scanner;
 
@@ -53,5 +54,4 @@ import java.util.Scanner;
             heroi.atacar();
         }
     }
-
 
